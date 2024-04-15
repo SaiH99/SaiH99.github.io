@@ -1,28 +1,28 @@
 ---
 # Display name
-title: 吳健雄
+title: Sai
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: psi Harsh-ah
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sai Harsha
+last_name: Bhamidipati
 
 # Status emoji
-status:
-  icon: ☕️
+status: Your Friendly Neighborhood Human
+  icon: ☕️😎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Chemical Engineering PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University at Buffalo
+    url: https://www.buffalo.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,21 +40,21 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Chemical Engineering
+    institution: University at Buffalo
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: In Progress
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Research on why and how Aging happens in Organisms. Supervised by [Dr. Stelios Andreadis](https://engineering.buffalo.edu/chemical-biological/people/faculty-directory/core.host.html/content/shared/engineering/chemical-biological/profiles/faculty/andreadis-stelios.detail.html).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BTech in Chemical Engineering
+    institution: Indian Institute of Petroleum and Energy
+    date_start: 2016-05-01
+    date_end: 2020-04-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 9.18/10
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
